@@ -1,6 +1,11 @@
 # telco_customer_churn
 This project is about to build a binary classifier which can predict the churning customers of the Telco company. Based on a good classifier, explore the feature importance to see which factors are the biggest contributors to a churn customer. On top of that, business insights and suggestions are established and explained.
 
+**Project Framework**
+
+![image](https://user-images.githubusercontent.com/38795845/130504195-953c5312-b8e4-46ca-90ff-862b276a041d.png)
+
+
 ## Dataset Description
 The dataset is obtained from Kaggle and stems from the IBM sample data set, contains 7,043 users 
 and 21 features with information about whether they left the company within the last month (churn). Each 
